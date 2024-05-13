@@ -5,20 +5,24 @@
   
 - **Postman v11.0.12**
 
-![01_Logo_Postman](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/4cead03d-6ad8-42f3-bf63-ded276aae98c)
+![01_Logo_Postman](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/9a62ed55-bcd1-4297-abc6-380c7dc6153d)
 
-![02_API_REST](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/520866c7-2f8b-4e8e-be4f-4395c761d128)
+![02_API_REST](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/13f3c6ca-d172-4a75-baa9-f57e3afedc4f)
+
+
 
 ## Estrutura da Collection "Test" e Environment (variáveis)
 
-![03_Estutura_da_Collection_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/dcf967ea-52ce-4a7d-9543-bf63b52e6677)
+![03_Estutura_da_Collection_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/1911b6db-d225-4dbc-92c5-0340bc3dbcc6)
+
 
 ## Exemplo da Environment (variáveis) utilizada na Collection "Test"
 
 - No canto superior direito do Postman encontra-se o botão **"Environment quick look"**, conforme a imagem abaixo.
 - Este botão serve para criar as **"Environments ou Variáveis"** a serem utilizadas nas **"requests"** da Collection, facilitando assim uma possível alteração de URL, Endppoint, por exemplo.
 
-![04_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/540e6020-52cb-4a95-8a3b-a3e94100c485)
+![04_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b5013695-93b0-436e-89a6-3fa1698c5437)
+
 
 ## Método, URL e Endpoint
 
@@ -33,6 +37,9 @@
      - {{url}}{{endpoint}}
    
      - **importante observar** que as variáveis sempre são informadas **entre chaves dupla.**
+   
+       ![05_Metodo_URL_EndPoint](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f081250d-63b2-4f06-9d57-2f2c1a97845b)
+
    
   - Documentação desta API REST.
  
