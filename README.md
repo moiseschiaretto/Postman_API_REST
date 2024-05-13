@@ -11,15 +11,15 @@
 
 
 
-## Estrutura da Collection "Test" e Environment (variáveis)
+## Estrutura da Collection "Test" e Environment (variáveis) "API_REST_gorest.co.in"
 
 ![03_Estutura_da_Collection_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/1911b6db-d225-4dbc-92c5-0340bc3dbcc6)
 
 
-## Exemplo da Environment (variáveis) utilizada na Collection "Test"
+## Exemplo das Environments (variáveis) "API_REST_gorest.co.in" utilizadas na Collection "Test"
 
 - No canto superior direito do Postman encontra-se o botão **"Environment quick look"**, conforme a imagem abaixo.
-- Este botão serve para criar as **"Environments ou Variáveis"** a serem utilizadas nas **"requests"** da Collection, facilitando assim uma possível alteração de URL, Endppoint, por exemplo.
+- Este botão serve para criar as **"Environments ou Variáveis"** a serem utilizadas nas **"requests"** da Collection "Test", facilitando assim uma possível alteração de URL, Endppoint, por exemplo.
 
 ![04_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b5013695-93b0-436e-89a6-3fa1698c5437)
 
@@ -34,7 +34,7 @@
  
   - E sim utilizando as **"Environments ou Variáveis"** criadas, por exemplo:
 
-     - {{url}}{{endpoint}}
+     - **{{url}}{{endpoint}}**
    
      - **importante observar** que as variáveis sempre são informadas **entre chaves dupla.**
    
