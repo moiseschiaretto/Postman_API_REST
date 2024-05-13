@@ -20,9 +20,10 @@
 
 ## Exemplo das Environments (variáveis) "API_REST_gorest.co.in" utilizadas na Collection "Test"
 
+
 - No Painel à esquerda encontra-se o botão **Environments**, este selecionado irá listar as **Environments do Worksapce** aberto / sendo utilizado.
 
-![04_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f63aa95b-fcaf-403e-a10c-23bd24e86436)
+![04_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/08a64fbe-9c5a-49b6-b8d3-9d6d4dab2b31)
 
 
 - No canto superior direito do Postman encontra-se o botão **"Environment quick look"**, conforme a imagem abaixo.
@@ -125,6 +126,24 @@
 
 ## Guia Scripts
 
+  - A guia **"Scripts"** no Postman é uma área onde você pode escrever código JavaScript para automatizar e personalizar o comportamento das solicitações HTTP.
+
+  - A imagem abaixo exibe um exemplo do **código JavaScript para automatizar os testes.**
+
+![14_Guia_Scripts](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/eec05d9c-7315-4132-ad88-ef3a43f57930)
 
 
+## Guia Test Results
+
+  - Exibe o resultado da automatização dos testes na **"Guia Scripts"**
+
+  - A imagem abaixo exibe um exmplo dos passos executados.
+
+
+![15_Guia_Test_Results](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/a3091032-2eaa-46ae-b549-174f174595f4)
+
+
+## Run Collection
+
+  - 
     
