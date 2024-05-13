@@ -39,6 +39,10 @@
 
     - https://gorest.co.in/public/v2/users
  
+    - **url** = https://gorest.co.in/
+ 
+    - **endpoint** = public/v2/users/
+ 
   - E sim utilizando as **"Environments ou Variáveis"** criadas, por exemplo:
 
      - **{{url}}{{endpoint}}**
@@ -86,8 +90,37 @@
 
 ## Guia Authorization
 
+- Selecionar no campo **Auth Type** a opção igual a **Bearer Token** é permitido a autorização para conexão a API [https://gorest.co.in/public/v2/users]
+
+![11_Guia_Authorization](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f14b8380-537a-490a-a5db-f28799bf26f9)
+
+
+## Guia Headers
+
+  - Informar no campo da coluna **Key** o texto igual a **Authorization**
+
+  - Informar no campo da coluna **Value** o texto igual a **Bearer b7e0f9be923eabf55779250a1266ee97af8c9a99adc308e.............**
+
+  - Desta forma informando o **Token** gerado é possível a autorização para conexão a API [https://gorest.co.in/public/v2/users]
+
+
+![12_Guia_Headers](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b8be78ed-0c46-4da7-8136-489613fcf0aa)
+
+
 
 ## Guia Body
+
+  - Selecionar a opção **raw**
+
+  - A opção "raw" no Postman é usada para enviar dados brutos no corpo de uma solicitação HTTP. Isso significa que você pode enviar dados no formato que desejar, como JSON, XML, texto simples, etc.
+
+  - Selecionar a opção **JSON**
+
+  - A opção "JSON" no Postman é uma maneira conveniente de enviar dados no formato JSON no corpo de uma solicitação HTTP.
+
+  - **Observe o exemplo abaixo**, enviando dados com o **Método Post**
+
+  ![13_Guia_Body](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/6652edf1-c264-42c3-a542-fd1bc6d171d2)
 
 
 ## Guia Scripts
