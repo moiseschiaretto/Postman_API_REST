@@ -161,7 +161,7 @@
   ![17_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/03acba4e-15f6-4988-a044-3a744960f41f)
 
 
-- **Observe as imagens abaixo o resultado da execução de **cada request** da collection.
+- **Observe** as imagens abaixo o resultado da execução de **cada request** da collection.
 
 ![18_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/909c1e4a-4aa7-49c1-8c91-87427b19bc53)
 
