@@ -264,7 +264,9 @@
 							"\r",
 							"// Imprimir o \"id\" capturado\r",
 							"console.log(\"O id capturado é: \" + id);\r",
-							""
+							"\r",
+							"// Delay de 2 Segundos para armazenar o Id na variável\r",
+							"setTimeout(function(){}, 2000);"
 						],
 						"type": "text/javascript",
 						"packages": {}
@@ -285,7 +287,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Maria de Freitas\",\r\n    \"email\": \"mariafreitas@example\",\r\n    \"gender\": \"male\",\r\n    \"status\": \"active\"\r\n}",
+					"raw": "{\r\n    \"name\": \"Maria Silva\",\r\n    \"email\": \"mariasilva@example\",\r\n    \"gender\": \"male\",\r\n    \"status\": \"active\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
@@ -312,8 +314,8 @@
 							"    pm.expect(pm.response.responseTime).to.be.below(20000);\r",
 							"}); \r",
 							"\r",
-							"pm.test(\"Código de Status é 201\", function () {\r",
-							"    pm.response.to.have.status(201);\r",
+							"pm.test(\"Código de Status é 200\", function () {\r",
+							"    pm.response.to.have.status(200);\r",
 							"});\r",
 							""
 						],
@@ -335,7 +337,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"name\": \"Maria de Freitas Sales\",\r\n    \"email\": \"mariafreitas@example\",\r\n    \"gender\": \"male\",\r\n    \"status\": \"active\"\r\n}",
+					"raw": "{\r\n    \"name\": \"Maria Silva Oliveira\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
