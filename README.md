@@ -13,7 +13,7 @@
 
 ## Estrutura da Collection "Test"
 
-![03_Estutura_da_Collection_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/ac809748-074f-4645-b6ed-3caaed372b10)
+![03_Estutura_da_Collection_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/8c279a83-4494-4576-8f43-5a0da403c5ad)
 
 
 
@@ -51,20 +51,20 @@
 
   * Botão **Send** utilizado para executar o **método GET** da request selecionado **GET ALL**
 
-![06_Botao_Send](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f5d957dd-5a6b-4b55-94cc-01d81c9da05c)
+  ![06_Botao_Send](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f5d957dd-5a6b-4b55-94cc-01d81c9da05c)
 
 ## Response - Guia Body 
 
   - Exibe o resultado da requisição ou "request" da API Rest.
 
-    ![07_Response_Guia_Body](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/8130d9fb-48a8-4cf3-ad22-cd247655aed3)
+  ![07_Response_Guia_Body](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/8130d9fb-48a8-4cf3-ad22-cd247655aed3)
 
 
 ## Response - Guia Tests Results
 
   - Exibe o resultado referente ao **Script (código desenvolvido para os asserts).**
 
-    ![08_Response_Guia_Test_Results](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/3e695b05-663f-4e9a-b4ef-65abdc70fa5e)
+  ![08_Response_Guia_Test_Results](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/3e695b05-663f-4e9a-b4ef-65abdc70fa5e)
 
 
 ## Response - Console
