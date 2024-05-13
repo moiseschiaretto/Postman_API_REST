@@ -13,11 +13,17 @@
 
 ## Estrutura da Collection "Test"
 
-![03_Estutura_da_Collection_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/8c279a83-4494-4576-8f43-5a0da403c5ad)
+- No Painel à esquerda encontra-se o botão **Collection**, este selecionado irá listar as **Collections do Worksapce** aberto / sendo utilizado.
 
+![03_Estutura_da_Collection_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/0d398e15-07dc-4b8f-889f-248cd60f2f53)
 
 
 ## Exemplo das Environments (variáveis) "API_REST_gorest.co.in" utilizadas na Collection "Test"
+
+- No Painel à esquerda encontra-se o botão **Environments**, este selecionado irá listar as **Environments do Worksapce** aberto / sendo utilizado.
+
+![04_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f63aa95b-fcaf-403e-a10c-23bd24e86436)
+
 
 - No canto superior direito do Postman encontra-se o botão **"Environment quick look"**, conforme a imagem abaixo.
 - Este botão serve para criar as **"Environments ou Variáveis"** a serem utilizadas nas **"requests"** da Collection "Test", facilitando assim uma possível alteração de URL, Endppoint, por exemplo.
