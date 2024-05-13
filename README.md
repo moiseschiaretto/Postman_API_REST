@@ -11,9 +11,10 @@
 
 
 
-## Estrutura da Collection "Test" e Environment (variáveis) "API_REST_gorest.co.in"
+## Estrutura da Collection "Test"
 
-![03_Estutura_da_Collection_Environment](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/1911b6db-d225-4dbc-92c5-0340bc3dbcc6)
+![03_Estutura_da_Collection_Environment_02](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/ac809748-074f-4645-b6ed-3caaed372b10)
+
 
 
 ## Exemplo das Environments (variáveis) "API_REST_gorest.co.in" utilizadas na Collection "Test"
@@ -46,7 +47,35 @@
      - https://gorest.co.in   
 
    
-## Botão Send e Response
+## Botão Send
+
+  * Botão **Send** utilizado para executar o **método GET** da request selecionado **GET ALL**
+
+![06_Botao_Send](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f5d957dd-5a6b-4b55-94cc-01d81c9da05c)
+
+## Response - Guia Body 
+
+  - Exibe o resultado da requisição ou "request" da API Rest.
+
+    ![07_Response_Guia_Body](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/8130d9fb-48a8-4cf3-ad22-cd247655aed3)
+
+
+## Response - Guia Tests Results
+
+  - Exibe o resultado referente ao **Script (código desenvolvido para os asserts).**
+
+    ![08_Response_Guia_Test_Results](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/3e695b05-663f-4e9a-b4ef-65abdc70fa5e)
+
+
+## Response - Console
+
+  - Exibe no **Console** o resultado das execuções de requisições da API Rest e também o que foi enviando para impressão no console, usado no **Script**, usando o seguinte comando:
+
+  **console.log("Os dados retornados não estão em um formato de array.");**
+
+  ![10_Botao_Console](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/55e3b022-ffbf-41bd-96ed-21b402155442)
+
+  ![09_Botao_Console](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/4db46552-7d00-4489-a7c7-3707e4142c25)
 
 
 ## Guia Authorization
