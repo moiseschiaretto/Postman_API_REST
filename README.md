@@ -9,6 +9,7 @@
 
 ![02_API_REST](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/13f3c6ca-d172-4a75-baa9-f57e3afedc4f)
 
+![14_QA_TESTER](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/22073e10-e1fa-4071-9ebb-1997f6e65bb3)
 
 
 ## Estrutura da Collection "Test"
