@@ -50,7 +50,7 @@
    
      - **importante observar** que as variáveis sempre são informadas **entre chaves dupla.**
    
-  ![05_Metodo_URL_EndPoint](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f081250d-63b2-4f06-9d57-2f2c1a97845b)
+![05_Metodo_URL_EndPoint](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/f081250d-63b2-4f06-9d57-2f2c1a97845b)
 
    
   - Documentação desta API REST.
