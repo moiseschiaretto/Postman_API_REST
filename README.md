@@ -217,14 +217,19 @@ newman --version
 
 ### Exportar a Collection "Test"
 <br>
+<img width="332" alt="000_Export_Colletion" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/e0393291-a4fa-4fc1-9846-7ff11430378e">
 
-
+<br>
 
 ### Exportar as Environments (variáveis) "API_REST_gorest.co.in"
 <br>
 
+<img width="543" alt="00_Edit_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b1a9c6d1-3b58-4f99-a933-1712d184446b">
+
+<img width="618" alt="00_Export_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/7703943a-379e-4826-be28-65cb32a8c9ef">
 
 
+<br>
 ### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
 <br>
 
