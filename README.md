@@ -197,13 +197,33 @@ npm install -g newman
 ```
 <br>
 
+## Validar se a instalação do "Newman" foi realizada corretamente
 
+**_Digitar no Prompt de Comando como Administrador_**
+<br>
+
+```
+
+newman --version
+
+
+```
+<br>
+
+<img width="182" alt="00_Newman_Version" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/6c6c0e6f-130b-4a8e-b838-ba3a2e359117">
+
+
+<br>
 
 ### Exportar a Collection "Test"
 <br>
 
+
+
 ### Exportar as Environments (variáveis) "API_REST_gorest.co.in"
 <br>
+
+
 
 ### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
 <br>
