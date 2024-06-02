@@ -174,8 +174,8 @@
 
 ## Newman
 <br>
-
-
+O Newman é uma ferramenta de linha de comando que executa coleções de testes do Postman, permitindo automação e integração contínua de testes de API, incluindo a aplicação e manipulação de variáveis definidas no ambiente do Postman.
+<br>
 
 ### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
 
