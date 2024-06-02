@@ -6,7 +6,7 @@
 
 - Objetivo:
 
-  - Criar testes com o Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete).
+  - Criar testes com o Postman com Javascript, JWT, CRUD, e os verbos HTTP (Get, Post, Put, Patch, Delete).
 
   - Utilizar a ferramenta **_Newman_** para executar a **Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"** criados no Postman.
 
