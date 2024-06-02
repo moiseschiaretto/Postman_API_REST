@@ -232,7 +232,7 @@ newman --version
 
 ### Execução utilizando a ferramenta _"Newman"_ dos arquivos JSON exportados do Postman
 
-### Arquivos JSON expostados são:
+### Arquivos JSON exportados são:
 
 - **Test.postman_collection.json**
 
