@@ -172,5 +172,30 @@
 ![20_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b7b0ddee-726a-46a8-978b-c6a696c76c8d)
 
 ![21_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/17fb0b58-e885-46de-b9d5-070fd2af0092)
+<br>
+
+***
+
+## Newman
+<br>
+
+
+
+### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
+
+
+### Exportar a Collection "Test"
+
+
+### Exportar as Environments (variáveis) "API_REST_gorest.co.in"
+
+
+### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
+
+
+
+
+
+
 
 
