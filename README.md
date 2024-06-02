@@ -165,13 +165,9 @@
 
 - **Observe** as imagens abaixo o resultado da execução de **cada request** da collection.
 
-![18_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/909c1e4a-4aa7-49c1-8c91-87427b19bc53)
-
-![19_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/db4b2948-e2a3-4435-be83-f29f5955d9bd)
-
-![20_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b7b0ddee-726a-46a8-978b-c6a696c76c8d)
-
-![21_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/17fb0b58-e885-46de-b9d5-070fd2af0092)
+|Telas de Execução da Collection "Test" em Postman   |    |    |    |
+|----------------------------------------------------|----|----|----|
+| ![18_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/909c1e4a-4aa7-49c1-8c91-87427b19bc53) | ![19_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/db4b2948-e2a3-4435-be83-f29f5955d9bd) | ![20_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b7b0ddee-726a-46a8-978b-c6a696c76c8d) | ![21_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/17fb0b58-e885-46de-b9d5-070fd2af0092) |
 <br>
 
 ***
