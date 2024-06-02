@@ -1,9 +1,18 @@
 ## Projeto "Postman"
+
 - Autor Moisés Ademir Chiaretto
   
 - Descrição das explicações de cada item da 'estrutura da Collection" **Test** desenvolvida'.
+
+- Objetivo:
+
+  - Criar testes com o Postman com Javascript, JWT, CRUD, verbos HTTP (Get, Post, Put, Patch, Delete).
+
+  - Utilizar a ferramenta **_Newman_** para executar a **Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"** criados no Postman.
+
   
-- **Postman v11.0.12**
+**Postman v11.0.12**
+
 <br>
 
 |Postman        |API            |JSON          |Newman           |QA - Tester      |
