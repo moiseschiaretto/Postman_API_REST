@@ -230,7 +230,14 @@ newman --version
 
 <br>
 
-### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
+### Execução utilizando a ferramenta _"Newman"_ dos arquivos JSON exportados do Postman
+
+### Arquivos JSON expostados são:
+
+- **Test.postman_collection.json**
+
+- **API_REST_gorest.co.in.postman_environment.json**
+
 
 **_Digitar no Prompt de Comando como Administrador_**
 
