@@ -186,6 +186,19 @@
 O Newman é uma ferramenta de linha de comando que executa coleções de testes do Postman, permitindo automação e integração contínua de testes de API, incluindo a aplicação e manipulação de variáveis definidas no ambiente do Postman.
 <br>
 
+### Instalar o Newman no Prompt de Comando como Administrador
+<br>
+
+```
+
+npm install -g newman
+
+
+```
+<br>
+
+
+
 ### Exportar a Collection "Test"
 <br>
 
