@@ -215,13 +215,13 @@ newman --version
 
 <br>
 
-### Exportar a Collection "Test"
+### Exportar a Collection "Test" do Postman
 <br>
 <img width="332" alt="000_Export_Colletion" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/e0393291-a4fa-4fc1-9846-7ff11430378e">
 
 <br>
 
-### Exportar as Environments (variáveis) "API_REST_gorest.co.in"
+### Exportar as Environments (variáveis) "API_REST_gorest.co.in" do Postman
 <br>
 
 |Exportando as Environments (variáveis) "API_REST_gorest.co.in"  |            |
