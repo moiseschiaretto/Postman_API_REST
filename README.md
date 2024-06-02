@@ -226,16 +226,34 @@ newman --version
 
 <img width="543" alt="00_Edit_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b1a9c6d1-3b58-4f99-a933-1712d184446b">
 
+<br>
+
 <img width="618" alt="00_Export_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/7703943a-379e-4826-be28-65cb32a8c9ef">
 
 
 <br>
 ### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
+
+**_Digitar no Prompt de Comando como Administrador_**
+
+<br>
+
+```
+
+newman run Test.postman_collection.json --environment API_REST_gorest.co.in.postman_environment.json
+
+
+```
+<br>
+<br>
+
+### Resultado da execução utilizando a ferramenta "_Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
 <br>
 
 
-
-
 <br>
+<br>
+
+
 
 
