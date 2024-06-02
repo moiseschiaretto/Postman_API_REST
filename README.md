@@ -250,10 +250,12 @@ newman run Test.postman_collection.json --environment API_REST_gorest.co.in.post
 ### Resultado da execução utilizando a ferramenta "_Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
 <br>
 
+|Resultado da execução utilizando a ferramenta "_Newman"         |
+|----------------------------------------------------------------|
+| <img width="459" alt="01_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/eb4359ad-9d02-4d84-82fe-bac16e97f576"> |
+| <img width="420" alt="02_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/c4823f89-154f-4cc7-81cb-ec94af46de25"> |
+| <img width="357" alt="03_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/6a4e3b48-e30c-4e3f-ba11-abe0fcbe0e6a"> |
 
 <br>
 <br>
-
-
-
 
