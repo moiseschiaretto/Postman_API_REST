@@ -6,9 +6,9 @@
 - **Postman v11.0.12**
 <br>
 
-|Postman        |API            |JSON          |QA - Tester      |
-|---------------|---------------|--------------|-----------------|
-| ![01_Logo_Postman](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/9a62ed55-bcd1-4297-abc6-380c7dc6153d) | ![02_API_REST](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/13f3c6ca-d172-4a75-baa9-f57e3afedc4f) | <img width="164" alt="04_JSON" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/4f05e9f8-2810-41c6-8393-facb1d962581"> | ![14_QA_TESTER](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/22073e10-e1fa-4071-9ebb-1997f6e65bb3) |
+|Postman        |API            |JSON          |Newman           |QA - Tester      |
+|---------------|---------------|--------------|-----------------|-----------------|
+| ![01_Logo_Postman](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/9a62ed55-bcd1-4297-abc6-380c7dc6153d) | ![02_API_REST](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/13f3c6ca-d172-4a75-baa9-f57e3afedc4f) | <img width="164" alt="04_JSON" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/4f05e9f8-2810-41c6-8393-facb1d962581"> | <img width="158" alt="00_Newman_Postman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b36c772b-9616-433e-8c46-23c94d0717e1"> | ![14_QA_TESTER](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/22073e10-e1fa-4071-9ebb-1997f6e65bb3) |
 
 <br>
 
