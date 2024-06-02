@@ -224,12 +224,9 @@ newman --version
 ### Exportar as Environments (variáveis) "API_REST_gorest.co.in"
 <br>
 
-<img width="543" alt="00_Edit_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b1a9c6d1-3b58-4f99-a933-1712d184446b">
-
-<br>
-
-<img width="618" alt="00_Export_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/7703943a-379e-4826-be28-65cb32a8c9ef">
-
+|Exportando as Environments (variáveis) "API_REST_gorest.co.in"  |            |
+|----------------------------------------------------------------|------------|
+| <img width="543" alt="00_Edit_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/b1a9c6d1-3b58-4f99-a933-1712d184446b"> | <img width="618" alt="00_Export_Environments" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/7703943a-379e-4826-be28-65cb32a8c9ef"> |
 
 <br>
 ### Execução em _"Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
@@ -250,11 +247,9 @@ newman run Test.postman_collection.json --environment API_REST_gorest.co.in.post
 ### Resultado da execução utilizando a ferramenta "_Newman"_ da Collection "Test" e das Environments (variáveis) "API_REST_gorest.co.in"
 <br>
 
-|Resultado da execução utilizando a ferramenta "_Newman"         |
-|----------------------------------------------------------------|
-| <img width="459" alt="01_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/eb4359ad-9d02-4d84-82fe-bac16e97f576"> |
-| <img width="420" alt="02_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/c4823f89-154f-4cc7-81cb-ec94af46de25"> |
-| <img width="357" alt="03_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/6a4e3b48-e30c-4e3f-ba11-abe0fcbe0e6a"> |
+|Resultado da execução utilizando a ferramenta "_Newman"         |            |          |
+|----------------------------------------------------------------|------------|----------|
+| <img width="459" alt="01_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/eb4359ad-9d02-4d84-82fe-bac16e97f576"> | <img width="420" alt="02_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/c4823f89-154f-4cc7-81cb-ec94af46de25"> | <img width="357" alt="03_Execucao_Newman" src="https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/6a4e3b48-e30c-4e3f-ba11-abe0fcbe0e6a"> |
 
 <br>
 <br>
