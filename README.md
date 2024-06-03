@@ -173,7 +173,7 @@
 
 <br>
 
-### Resultado da execução cada request da collectionutilizando o Postman
+### Resultado da execução de cada request da collection utilizando o Postman
 
 
 |Telas de Execução da Collection "Test" em Postman   |    |    |    |
