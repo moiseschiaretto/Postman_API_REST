@@ -171,8 +171,10 @@
 
   ![17_Run_Collection](https://github.com/moiseschiaretto/Postman_API_REST/assets/84775466/03acba4e-15f6-4988-a044-3a744960f41f)
 
+<br>
 
-- **Observe** as imagens abaixo o resultado da execução de **cada request** da collection.
+### Resultado da execução cada request da collectionutilizando o Postman
+
 
 |Telas de Execução da Collection "Test" em Postman   |    |    |    |
 |----------------------------------------------------|----|----|----|
